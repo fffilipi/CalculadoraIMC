@@ -1,5 +1,5 @@
 # CalculadoraIMC
-Calculadora para verificar a classificação e seu IMC em 
+Calculadora para verificar a classificação e seu IMC em JavaScript
 
 Acesso o site:
 
